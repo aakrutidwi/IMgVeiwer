@@ -1,0 +1,41 @@
+.sub{
+    max-height: 400px;
+    max-width: 400px;
+    
+}
+.main{
+   padding: 16px;
+   border: 1px solid rgb(216, 216, 216);
+   
+}
+.main:hover{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+
+.HomeImgWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+
+.sub1{
+    max-height: 700px;
+    max-width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: rgb(158, 54, 54);
+    padding: 50px;
+    
+    
+}
+
+.main1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
